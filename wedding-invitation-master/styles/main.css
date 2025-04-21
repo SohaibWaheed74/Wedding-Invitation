@@ -10078,4 +10078,19 @@ body {
     color: #fff;
     text-shadow: 2px 2px 8px #000;
   }
+footer {
+  font-size: 1rem;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+footer a {
+  text-decoration: none;
+  color: #000;
+}
+
+footer a:hover {
+  color: #555;
+}
+
   
